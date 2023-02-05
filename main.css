@@ -15,4 +15,7 @@
 .navbar-custom{
   background-color:#f2b570;
 }
-
+.bg-image{
+  height: 50%;
+  background: center no-repeat;
+}
