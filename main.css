@@ -12,3 +12,7 @@
   min-height: 100vh;
   background: var(--white);
 }
+.navbar-custom{
+  background-color:#f2b570;
+}
+
