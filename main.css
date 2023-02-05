@@ -12,3 +12,6 @@
   min-height: 100vh;
   background: var(--white);
 }
+nav{
+  color: #f2b570;
+}
