@@ -29,3 +29,7 @@ a{
 .form-group,form>.btn{
   margin:30px;
 }
+.btn-primary{
+  background-color:#D2AC47;
+  border-color:#D2AC47;
+}
