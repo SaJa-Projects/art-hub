@@ -1,4 +1,4 @@
-
+/* main */
 * {
   margin: 0;
   padding: 0;
@@ -13,13 +13,19 @@
   min-height: 100vh;
   background: var(--white);
 }
+a{
+  text-decoration: none!important;
+}
+/* nav */
 .navbar-custom{
   background-color:#D2AC47;
 }
+/* header */
 .bg-image{
   height: 50%;
   background: center no-repeat;
 }
-a{
-  text-decoration: none!important;
+/* contact */
+.form-group,form>.btn{
+  margin:30px;
 }
