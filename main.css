@@ -17,6 +17,10 @@ a{
   text-decoration: none!important;
 }
 /* nav */
+nav{
+  padding-left: 15px;
+  padding-right:10px;
+}
 .navbar-custom{
   background-color:#D2AC47;
 }
