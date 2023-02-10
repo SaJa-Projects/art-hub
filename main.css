@@ -32,7 +32,10 @@ nav {
 /* about */
 .aboutContainer {
   display: flex;
-  margin: 50px;
+  margin:30px; 
+}
+.aboutContainer #aboutImage{
+  margin: auto;
 }
 
 /* gallery */
