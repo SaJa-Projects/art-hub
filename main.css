@@ -29,6 +29,12 @@ nav {
 .bg-image {
   background: center no-repeat;
 }
+/* about */
+.aboutContainer {
+  display: flex;
+  margin: 50px;
+}
+
 /* gallery */
 #galleryCarousel {
   width: -moz-fit-content;
@@ -37,11 +43,10 @@ nav {
   margin: auto;
 }
 /* contact */
-
-.form-group, form>.btn {
+.form-group,
+form > .btn {
   margin: 30px;
 }
-
 .btn-primary {
   background-color: #d2ac47;
   border-color: #d2ac47;
